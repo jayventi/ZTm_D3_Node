@@ -1,0 +1,27 @@
+# csv
+#csv
+#*.csv
+
+# json
+#json
+#*.json
+
+# Python
+*.pyc
+
+# node stuff
+node_modules
+
+angular/public
+angular/dist
+angular/tmp
+
+.DS_Store*
+Thumbs.db*
+~*
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
